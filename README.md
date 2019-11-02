@@ -12,6 +12,7 @@ This will be challenging indeed, as there is **purposefully no semantic HTML** o
 
 1. This will require a few regexp (to match the somewhat chaotic filenames)
     1. Also note that **HEADERS** and **table rows** are indistinct in the source. :sweat:
+    2. Regex refreshser: https://www.oreilly.com/ideas/an-introduction-to-regular-expressions
 2. And will need to make use of async filesystem operations
 3. No webpage to speak of, no db, straight, simple tasks people!
 

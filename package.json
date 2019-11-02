@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/kopickik/twenty-minute-scraper/issues"
   },
-  "homepage": "https://github.com/kopickik/twenty-minute-scraper#readme"
+  "homepage": "https://github.com/kopickik/twenty-minute-scraper#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "rxjs": "^6.3.3"
+  },
+  "devDependencies": {
+    "rxjs-compat": "^6.3.3"
+  }
 }
